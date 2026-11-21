@@ -1,3 +1,3 @@
-# My AI Project
+# My TEST AI Project
 
-Repository for my AI coding projects.
+This is my first Repository for my AI coding projects.
